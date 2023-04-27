@@ -1,4 +1,4 @@
-👋 Hi, I’m @ganeshBadikala
+👋 Hi, I’m @GaneshBadikala
 
 👀 I’m interested in Web application developments and full stack app development.
 
